@@ -1,16 +1,14 @@
-## Hi there 👋
+<img width="1000" height="272" alt="till-till-alien-stage" src="https://github.com/user-attachments/assets/7217f049-8c27-4466-8060-a6594d72abdd" />
 
-<!--
-**guukfrjjn/guukfrjjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=bfddf3&center=true&vCenter=true&width=1200&size=35&lines=mi+vida+loca;" />
+
+---
+
+## manu salvador
+---
+**etecvav - 1C²**
+<p>apenas uma pessoa que quer aprender a programar :3  </p>
