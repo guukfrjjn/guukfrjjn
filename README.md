@@ -4,7 +4,7 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=bfddf3&center=true&vCenter=true&width=1200&size=35&lines=mi+vida+loca;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=bfddf3&center=true&vCenter=true&width=1200&size=35&lines=mi+vida+loca+!+!+!;" />
 
 ---
 
