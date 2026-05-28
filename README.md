@@ -8,7 +8,7 @@
 
 ---
 
-## manu salvador
+## ???
 ---
 **etecvav - 1C²**
-<p>apenas uma pessoa que quer aprender a programar :3  </p>
+<p>just a person who is learning programation :3  </p>
