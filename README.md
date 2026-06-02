@@ -1,10 +1,11 @@
-<img width="1000" height="272" alt="till-till-alien-stage" src="https://github.com/user-attachments/assets/7217f049-8c27-4466-8060-a6594d72abdd" />
+<img width="1000" height="259" alt="anime-woman-smoke" src="https://github.com/user-attachments/assets/09d82570-2b15-4af8-9ec1-f85654cfa2dc" />
+
 
 
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=bfddf3&center=true&vCenter=true&width=1200&size=35&lines=mi+vida+loca+!+!+!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800000&center=true&vCenter=true&width=1200&size=35&lines=i'm+a+broken+rose;" />
 
 ---
 
