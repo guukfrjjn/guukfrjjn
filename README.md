@@ -12,7 +12,7 @@
 
 ## Quem sou eu?
   eu sou uma estudante de Desenvolvimento de Sistemas, e também estou no primeiro ano do ensino médio. Procuro me formar como técnica e cursar o curso de Engenharia de Software na faculdade, busco ser uma pessoa bem sucedida e prospera nessa área; por isso me dedico ao máximo no curso técnico. Tenho mais facilidade e gosto de fazer projetos de IOT e HTML, mas quero aprender cada vez mais nessa área de tecnologia e me tornar uma ótima profissional.
-Gosto e prefiro trabalhar sozinha para conseguir dar o meu máximo e não precisar depender do esforço dos outros, mas quando necessário trabalhar em equipe, tomo a frente e gosto de deixar as tarefas organizadas por todos da equipe para que o trabalho seja feito por todos.
+  Gosto e prefiro trabalhar sozinha para conseguir dar o meu máximo e não precisar depender do esforço dos outros, mas quando necessário trabalhar em equipe, tomo a frente e gosto de deixar as tarefas organizadas por todos da equipe para que o trabalho seja feito por todos.
 </div>
 <div align="center">
   <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/cc738bd4-41f9-4e48-934d-7926fb292376" />
