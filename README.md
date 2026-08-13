@@ -44,6 +44,14 @@ Link: https://github.com/etecvav26-1C2-08/portifolio-pw
 ---
 <img width="1000" height="80" alt="image" src="https://github.com/user-attachments/assets/9a966c67-7f77-4f64-a60b-115a8295ad62" />
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guukfrjjn/guukfrjjn/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guukfrjjn/guukfrjjn/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guukfrjjn/guukfrjjn/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 
 
 
