@@ -30,12 +30,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="90" alt="Phyton">
 </div>
 
----
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/guukfrjjn/guukfrjjn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
 
 
 ---
@@ -48,6 +42,12 @@ Link: https://github.com/etecvav26-1C2-08/portifolio-pa
 Link: https://github.com/etecvav26-1C2-08/portifolio-iot
 - **Programação Web:**  
 Link: https://github.com/etecvav26-1C2-08/portifolio-pw
+---
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/guukfrjjn/guukfrjjn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 
 ---
 <img width="1000" height="80" alt="image" src="https://github.com/user-attachments/assets/9a966c67-7f77-4f64-a60b-115a8295ad62" />
