@@ -31,6 +31,14 @@
 </div>
 
 ---
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/guukfrjjn/guukfrjjn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+
+---
 ## Portfólios que participo
 conheçam um pouco dos trabalhos desenvolvidos por mim e meu grupo:
 
